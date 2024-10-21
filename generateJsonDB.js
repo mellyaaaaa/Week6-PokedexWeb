@@ -1,6 +1,7 @@
 const fs = require("fs");
 const { config } = require("process");
 
+
 async function generateJsonDB() {
   try {
   // TODO: fetch data pokemon api dan buatlah JSON data sesuai dengan requirement.
